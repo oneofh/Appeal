@@ -19,7 +19,7 @@ https://ethrat.ch/wp-content/uploads/2024/01/Informationsblatt-fuer-Webseite-EN.
 
 ## Language
 
-The appeal must be written in one of Switzerland's national languages. Thanks to the modern techonology, such as [DeepL](https://www.deepl.com/translator) and [Google Translate](https://translate.google.com), we do not need to know those langauges to appeal a decision. 
+The appeal must be written in one of Switzerland's national languages. Thanks to modern technology, such as [DeepL](https://www.deepl.com/translator) and [Google Translate](https://translate.google.com), we do not need to know those langauges to appeal a decision. 
 
 ## Cost
 
