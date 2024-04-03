@@ -1,6 +1,6 @@
-Courrier recommendé
+# RECOURS
 
-Commission de recours interne des EPF (CRIEPF)
+# Commission de recours interne des EPF
 
 Case postale
 
@@ -12,11 +12,11 @@ Madame, Monsieur,
 
 Je me permets de vous écrire afin de faire appel en recours d’une décision de bloquer l'accès au réseau de l'EPFL.<sup>[\[1\]](#footnote-1)</sup>
 
-1. **FAITS**
+**I. FAITS**
 
 Haoqian (le recourant) est doctorant à l’EPFL. Le 4 mars 2024, son compte EPFL a été empêché d'accéder au réseau de l'EPFL, y compris au courrier électronique de l'EPFL, au VPN de l'EPFL, au groupe de recherche Slack et au groupe de recherche Github.
 
-1. **MOTIFS**
+**II. MOTIFS**
 
 **Décision et droit de recours**
 
@@ -32,7 +32,7 @@ _Absence de justification_
 
 De plus, la révocation était injustifiée. D’après l’art. 23 LEX 6.1.4, le blocage de l’accès des utilisateurs ne peut résulter que d’une utilisation abusive au sens de l’art. 21 LEX 6.1.4. Toutefois, l’autorité n’a pas démontré un tel abus dans sa décision de révoquer les droits d’accès du recourant.
 
-1. **Conclusions**
+**III. Conclusions**
 
 En résumé, la révocation constitue une décision au sens de l'art. 5 PA. L'autorité avait exécuté l'acte en l'absence d'une décision formelle. L’absence de cette décision ne fait que jeter le doute sur les droits du recourant, notamment son droit à la justification de cet acte et son droit à un recours et à un appel. Il est important de noter que l’acte lui-même porte atteinte au rôle du recourant en tant qu’étudiant et employé de l’EPFL, qui nécessitent tous deux un accès à l’infrastructure électronique. Cette action représente donc un excès d’autorité ; elle prive le recourante de ses moyens de travail tout en lui refusant le droit de contester cette décision.
 
